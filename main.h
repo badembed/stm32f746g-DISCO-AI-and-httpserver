@@ -23,6 +23,11 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f7xx_hal.h"
+#include "stm32746g_discovery.h"
+#include "stm32746g_discovery_lcd.h"
+#include "stm32746g_discovery_ts.h"
+#include "app_x-cube-ai.h"
+//#include "C:\Users\sasha\Downloads\AI-handwriting-recognition-based-on-STM32f746g-DISCOVERY-master\AI-handwriting-recognition-based-on-STM32f746g-DISCOVERY-master\Drivers\BSP\STM32746G-Discovery\stm32746g_discovery_ts.h"
 
 #ifdef _RTE_
 #include "RTE_Components.h"             // Component selection
